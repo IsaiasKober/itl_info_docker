@@ -1,0 +1,6 @@
+@itl_info_docker_HostAddress = http://localhost:5138
+
+GET {{itl_info_docker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
